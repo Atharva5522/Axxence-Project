@@ -190,6 +190,30 @@
         justify-content: center;
         flex-direction: column;
         padding: 50px,50px;
+        /* margin-top: 20px; */
     }
+
+    .box{
+        width: 100%;
+        height: auto;
+    }
+
+    .box img{
+        margin-top: 20px;
+    }
+
+    .last-section {
+        width: 100%;
+        height:auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        padding-block: 20px;
+    }
+
+    /* .right-section {
+        margin-top: 10px;
+    } */
 }
 
